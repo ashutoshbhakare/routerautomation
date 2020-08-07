@@ -1,10 +1,10 @@
 # Ansible Network Automation
 Learn Router Automation with RH294
 # Contents 
-CISCO IOS 
-Configuring Router
-Introduction to CISCO IOS
-Basic IOS commands
+# CISCO IOS 
+ 	Configuring Router
+	Introduction to CISCO IOS
+	Basic IOS commands 
 enable
 configure t
 show 
