@@ -93,7 +93,7 @@ Learn Router Automation with RH294
 	* Secret ,Enabling ssh service
 	* Setting hostname, Generating ssh key
 	* Enable ssh v2
-Ansible Controller
+# Ansible Controller
 	* Manage inventory
 	* Creating host group
 	* Declaring variables:
